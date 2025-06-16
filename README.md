@@ -22,3 +22,11 @@
 - Composer'ı daha iyi kullanmak için cursor rules ile kurallarınızı belirleyebilirsiniz.
 - https://dotcursorrules.com/ üzerinden örnek kurallara erişebilirsiniz. # AdminDashboard
 # AdminDashboard
+
+# Ekran Kaydı 
+
+
+
+
+https://github.com/user-attachments/assets/a48282ee-41bc-4007-9d03-ee78e0c53f92
+
